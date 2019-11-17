@@ -25,16 +25,26 @@ A curated list of papers for visual tracking in aerial scenes and related applic
 ## 2019 Papers
 ### Journals
 - [2019-Dac-sdc low power object detection challenge for uav applications](https://ieeexplore.ieee.org/abstract/document/8787881/) (**2019-TPAMI**)
-- [2019 - AVDNet: A SmallSized Vehicle Detection Network for Aerial Visual Data](https://arxiv.org/abs/1907.07477) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
 
 ### Conference
 - [2019-VisDrone-SOT2019:
 The Vision Meets Drone Single Object Tracking Challenge
 Results](http://openaccess.thecvf.com/content_ICCVW_2019/html/VISDrone/Du_VisDrone-SOT2019_The_Vision_Meets_Drone_Single_Object_Tracking_Challenge_Results_ICCVW_2019_paper.html) (**ICCVW-2019**)
+- [2019-Eye in the Sky: Drone-Based Object Tracking and 3D Localization](https://dl.acm.org/citation.cfm?id=3350933) (**ACMM-2019**)
+- [2019-Multi-Object Tracking Hierarchically in Visual Data Taken From Drones](http://openaccess.thecvf.com/content_ICCVW_2019/html/VISDrone/Pan_Multi-Object_Tracking_Hierarchically_in_Visual_Data_Taken_From_Drones_ICCVW_2019_paper.html) (**ICCVW-2019**)
+- [2019-Multiple Object Tracking with Motion and Appearance Cues](http://openaccess.thecvf.com/content_ICCVW_2019/html/VISDrone/Li_Multiple_Object_Tracking_with_Motion_and_Appearance_Cues_ICCVW_2019_paper.html) (**ICCVW-2019**)
+- [2019-Multi Target Tracking from Drones by Learning from Generalized Graph Differences](http://openaccess.thecvf.com/content_ICCVW_2019/html/VISDrone/Ardo_Multi_Target_Tracking_from_Drones_by_Learning_from_Generalized_Graph_ICCVW_2019_paper.html) (**ICCVW-2019**)
+- [2019-Real-Time UAV Tracking Based on PSR Stability](http://openaccess.thecvf.com/content_ICCVW_2019/html/VISDrone/Wang_Real-Time_UAV_Tracking_Based_on_PSR_Stability_ICCVW_2019_paper.html) (**ICCVW-2019**)
+- [2019-Vision-Based Online Localization and Trajectory Smoothing for Fixed-Wing UAV Tracking a Moving Target](http://openaccess.thecvf.com/content_ICCVW_2019/html/VISDrone/Zhou_Vision-Based_Online_Localization_and_Trajectory_Smoothing_for_Fixed-Wing_UAV_Tracking_ICCVW_2019_paper.html) (**ICCVW-2019**)
 
 ## 2018 Papers
 ### Journals
 ### Conference
+
+## 2017 Papers
+### Journals
+### Conference
+- [2017-Robust UAV-based tracking using hybrid classifiers](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w30/html/Wang_Robust_UAV-Based_Tracking_ICCV_2017_paper.html) (**ICCV-2017**)
 
 ## Datasets
 - [VisDrone](http://www.aiskyeye.com/) [2018-Vision Meets Drone: A Challenge](http://www.aiskyeye.com/upfile/Vision_Meets_Drones_A_Challenge.pdf)
