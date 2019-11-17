@@ -28,11 +28,18 @@ A curated list of papers for visual tracking in aerial scenes and related applic
 - [2019 - AVDNet: A SmallSized Vehicle Detection Network for Aerial Visual Data](https://arxiv.org/abs/1907.07477) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
 
 ### Conference
-- [2019-Learning RoI Transformer for Oriented Object Detection in Aerial Images](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Learning_RoI_Transformer_for_Oriented_Object_Detection_in_Aerial_Images_CVPR_2019_paper.pdf) (**-CVPR-2019**)
+- [2019-VisDrone-SOT2019:
+The Vision Meets Drone Single Object Tracking Challenge
+Results](http://openaccess.thecvf.com/content_ICCVW_2019/html/VISDrone/Du_VisDrone-SOT2019_The_Vision_Meets_Drone_Single_Object_Tracking_Challenge_Results_ICCVW_2019_paper.html) (**ICCVW-2019**)
 
 ## 2018 Papers
 ### Journals
 ### Conference
 
 ## Datasets
+- [VisDrone](http://www.aiskyeye.com/) [2018-Vision Meets Drone: A Challenge](http://www.aiskyeye.com/upfile/Vision_Meets_Drones_A_Challenge.pdf)
+- [UAVDT](https://sites.google.com/site/daviddo0323/projects/uavdt), [2018 - The Unmanned Aerial Vehicle Benchmark- Object Detection and Tracking](https://arxiv.org/abs/1804.00518)
+- [UAV123](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx), [2016-A benchmark and simulator for UAV tracking](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_27)
+- [VIVID](http://vision.cse.psu.edu/data/vividEval/datasets/datasets.html), [2005-An open source tracking testbed and evaluation web site](http://vision.cse.psu.edu/publications/pdfs/opensourceweb.pdf)
+- [UAV-Dataset](https://engineering.purdue.edu/~bouman/UAV_Dataset/), [2016-Multi-target detection and tracking from a single camera in Unmanned Aerial Vehicles (UAVs)](https://ieeexplore.ieee.org/abstract/document/7759733/)
 
